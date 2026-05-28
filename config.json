@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingspdate",
+        "uuid": 20674196,
+        "checksum": "e8efmo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
